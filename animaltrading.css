@@ -1,0 +1,30 @@
+.container {
+  width: 400px;
+  border: 1px solid #666;
+  padding: 40px;
+  padding-bottom: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: serif;
+
+  box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+h2 {
+  display: block;
+  width: 100%;
+}
+
+.box {
+  margin-top: 10px;
+  padding: 20px;
+  border: 1px solid lightgray;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  padding-left: 0;
+}
